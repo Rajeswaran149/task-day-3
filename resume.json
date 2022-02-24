@@ -1,0 +1,28 @@
+  {
+    "Basics":{
+        "Name":"Rajeswaran",
+    "EmailID":"rajeswaran149@gmail.com",
+    "MobileNo":"9876543210",
+    "Address":"kaliamman kovil street,mallapuram,madurai"},
+    "Education":{ 
+        "UG":{
+            "Institute":"Bharath Niketan Engineering College",
+            "course":"BE mechanical engineering",
+            "YearofPassing":"2016",
+            "CGPA":"65.1"},
+    "HSC":{
+        "YearofPassing":"2012",
+        "Percentage":"78.17"},
+    "SSLC":{
+        "YearofPassing":"2010",
+        "Percentage":"74.6"}},
+    "Skills":{
+        "TechnicalSkills":{
+            "Languages":"javascript, Python",
+            "OperatingSystem":"Windows",
+            "WebTechnologies":"HTML"},    
+"OtherSkills":{
+    "Speakinglanguage":"English, Tamil"}},
+    
+} 
+ 
